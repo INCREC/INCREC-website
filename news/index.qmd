@@ -1,0 +1,13 @@
+---
+title: "News"
+listing:
+  id: news
+  fields: [image, title, description]
+  contents: 
+    - hiring
+  type: grid
+  categories: true
+  image-align: left
+  sort: "date desc"
+---
+

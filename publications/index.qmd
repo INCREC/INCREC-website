@@ -3,20 +3,9 @@ title: "Publications"
 listing:
   fields: [image,title,description]
   contents: 
-    - aggregated_triads
-    - data_protection
-    - ergm_framework_arch
-    - global_local_multigraphs
-    - gof_multigraph
-    - hypergraph
-    - isotopes
-    - multigraph_approach
-    - multiplexity
-    - multivariate_entropy_analysis
-    - ontario_sna
-    - reconstructing_arch_nets
-    - sna_chapter
-    - complexity_multigraphs
+    - chr2020
+    - linked_potter
+    - first_wattpad
   type: grid
   grid-columns: 3
   categories: true

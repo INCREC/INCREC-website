@@ -1,0 +1,27 @@
+---
+author: Federico Pianzola
+title: We're hiring!
+date: today
+image: RUG_logo_small.jpg
+title-block-style: none
+toc: true
+priority: 1
+description: The GOLEM project will officially start in January 2023 and we're looking for 4 people to join the team!
+categories:
+  - news
+---
+
+The GOLEM project will officially start in January 2023 and we're looking for 4 people to join the team:
+
+- 1 Postdoc
+- 1 Database Technician
+- 2 PhDs
+
+## Postdoc
+Check the official announcement: 
+
+## Database Technician
+Check the official announcement: 
+
+## PhD students
+Check the official announcement: 
