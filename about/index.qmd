@@ -18,4 +18,11 @@ The **methodology** combines mainly computational literary studies and cultural 
 
 The project is **hosted** by the Center for Langugage and Cognition and the Center for Digital Humanities of the University of Groningen (Netherlands).
 
-More details coming soon...
+***
+
+Millions of stories are shared on online platforms such as Wattpad, AO3, and Fanfiction.net, combined with readers' reactions and comments on these stories. The GOLEM project will analyze stories and their responses gathered from sites in five different languages – **English, Spanish, Italian, Korean and Indonesian**. This analysis can provide a wealth of information about the characters in a story, the genre, what a story is about, how a story is constructed, what themes are covered, as well as what readers from different countries and cultures find important in a story.
+
+- What elements in a story are meaningful to the reader?
+- What makes a story get read, and what do readers value in a story?
+
+The information we collect with this research makes it possible, with the help of computer models, to find answers to these kinds of questions. The goal is to test hypotheses about cultural evolution and develop a methodology that can also be applied to books from other periods in history. In this way, we can study the evolution of fiction over the centuries, and gain unprecedented insight into something as old as humanity itself: storytelling
