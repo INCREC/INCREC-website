@@ -17,7 +17,7 @@ website:
     description: "Digital Humanities research project about fanfiction and reading"
     image: "static/img/avatar.png"
   navbar:
-    # logo: "static/favicon.png"
+    logo: "static/logotype_oblique.png"
     title: false
     background: primary
     right:

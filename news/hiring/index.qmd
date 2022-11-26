@@ -19,7 +19,7 @@ The GOLEM project will officially start in January 2023 and we're looking for 4 
 
 ## Postdoc
 
-Applications are invited for a 1.5 year position as postdoctoral researcher with expertis in graph databases, ontology creation, and graph reasoning.
+Applications are invited for a 1.5 year position as postdoctoral researcher with expertise in graph databases, ontology creation, and graph reasoning.
 
 Official announcment coming soon.
 
