@@ -75,6 +75,8 @@ Graphs and Ontologies for Literary Evolution Models
 <br>
 <br>
 A 5-year (2023-2027) research project funded by the European Commission (ERC StG)
+<br>
+![](static/img/LOGO_ERC-FLAG_EU_.jpg)
 
 :::
 :::{.about-link}
@@ -104,7 +106,7 @@ A 5-year (2023-2027) research project funded by the European Commission (ERC StG
 
 ## News
 :::{#news}
-:::{#events}
+:::
 
 :::{.all-link}
 [ALL PROJECTS](news/)

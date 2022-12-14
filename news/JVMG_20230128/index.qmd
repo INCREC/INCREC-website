@@ -7,6 +7,7 @@ priority: 1
 description: 27 Jan. Second presentation of the project at Stuttgart Media University
 categories:
   - events
+  - news
 ---
 
 On 27-28 January, I'll be presenting the GOLEM project at a workshop organized by the [Japanese Visual Media Graph project](https://jvmg.iuk.hdm-stuttgart.de) at at Stuttgart Media University. Thanks to Magnus Pfeffer, Martin Roth, and Zoltan Kacsuk for the invitation.
