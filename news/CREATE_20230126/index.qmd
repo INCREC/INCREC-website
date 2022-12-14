@@ -1,7 +1,5 @@
 ---
-author: Federico Pianzola
 title: First event (Amsterdam + online)
-date: today
 image: CREATE.jpeg
 title-block-style: none
 toc: false
@@ -22,4 +20,4 @@ This will be a hybrid event:
 Physical Location: E-Lab (0.16), BG1, Media Studies, University of Amsterdam (Turfdraagsterpad 9)
 Virtual Location: Zoom Link
 
-Registration: https://www.create.humanities.uva.nl/events/cultural-evolution/
+Registration: [https://www.create.humanities.uva.nl/events/cultural-evolution/](https://www.create.humanities.uva.nl/events/cultural-evolution/)

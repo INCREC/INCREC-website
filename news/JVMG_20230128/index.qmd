@@ -1,7 +1,5 @@
 ---
-author: Federico Pianzola
 title: Event in Stuttgart
-date: today
 image: JVMG.jpg
 title-block-style: none
 toc: false
