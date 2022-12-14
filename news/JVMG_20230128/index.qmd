@@ -1,0 +1,16 @@
+---
+author: Federico Pianzola
+title: Event in Stuttgart
+date: today
+image: JVMG.jpg
+title-block-style: none
+toc: false
+priority: 1
+description: 27 Jan. Second presentation of the project at Stuttgart Media University
+categories:
+  - events
+---
+
+On 27-28 January, I'll be presenting the GOLEM project at a workshop organized by the [Japanese Visual Media Graph project](https://jvmg.iuk.hdm-stuttgart.de) at at Stuttgart Media University. Thanks to Magnus Pfeffer, Martin Roth, and Zoltan Kacsuk for the invitation.
+
+This is a very meaningful occasion because I started following the JVMG project in 2020 and I'm happy to see that the project will have e second phase in whch there will be a collaboration with GOLEM. More details about this will follow in due time.

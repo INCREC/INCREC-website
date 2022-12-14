@@ -5,6 +5,7 @@ listing:
   fields: [image, title, description]
   contents: 
     - hiring
+    - CREATE_20230126
   type: grid
   categories: true
   image-align: left
