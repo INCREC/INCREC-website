@@ -13,12 +13,17 @@ categories:
 I'm very happy that the first public presentation of the GOLEM project will be at the CREATE Salon at the University of Amsterdam, **26 January 2023**. Thanks to Melvin Wevers for the invitation!
 
 Date: Thursday, 26 January 2023
+
 Time: 15:00 – 17:00 CET
+
 Language: English
+
 Chair: Melvin Wevers | Assistant Professor Urban History and Digital Methods, University of Amsterdam
 
 This will be a hybrid event:
+
 Physical Location: E-Lab (0.16), BG1, Media Studies, University of Amsterdam (Turfdraagsterpad 9)
+
 Virtual Location: Zoom Link
 
 Registration: [https://www.create.humanities.uva.nl/events/cultural-evolution/](https://www.create.humanities.uva.nl/events/cultural-evolution/)
