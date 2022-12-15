@@ -13,11 +13,13 @@ listing:
     fields: [image,title]
     contents: 
       - news/hiring
+      - news/CREATE_20230126
+      - news/JVMG_20230128
     type: grid
     image-align: left
     sort: "priority asc"
     grid-columns: 3
-  - id: publication
+  - id: publications
     fields: [title,date]
     contents: 
      - publications/chr2020
