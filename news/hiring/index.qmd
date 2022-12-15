@@ -32,13 +32,26 @@ You will contribute to:
 - enrich the triple store with information obtained via rule-based and graph reasoning techniques
 - disseminate the project’s activities.
 
+Remote work possible, if resident in the EU.
+
 See the [official announcment](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0009QSP) for more information and to apply.
 
 ## Database Technician
 
 Applications are invited for a 1 year part-time (0.5 FTE) position as graph database technician. 
 
-Official announcment coming soon.
+In collaboration with the PI and a postdoctoral researcher, you will work on the creation of a graph database (Wikibase) compatible with Wikidata and other projects about the digitization of literary texts.
+
+You will contribute to:
+
+- collect data via APIs and web scraping
+- organize data in a local database
+- set up and maintain a triple store with extracted metadata
+- ensure communication between the local database and the triple store with a public SPARQL endpoint.
+
+Remote work possible, if resident in the EU.
+
+See the [official announcment](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0009RCP&cat=obp) for more information and to apply.
 
 ## PhD students
 
