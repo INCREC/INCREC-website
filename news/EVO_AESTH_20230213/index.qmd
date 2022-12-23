@@ -1,6 +1,6 @@
 ---
 title: Evolutionary Aesthetics Seminar
-image: static/logotype_oblique.png
+image: /static/logotype_oblique.png
 title-block-style: none
 toc: false
 priority: 3
