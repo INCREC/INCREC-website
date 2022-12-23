@@ -6,7 +6,7 @@ toc: true
 
 ## Principal Investigator
 
-Federico Pianzola | University of Groningen
+Federico Pianzola (University of Groningen)
 
 ## Associated researchers
 
@@ -26,9 +26,9 @@ Simone Rebora (University of Mainz)
 
 ## Other members
 
-Michiel van Ree (University of Groningen)
+Michiel van der Ree (University of Groningen)
 
-+ [We're hiring!](/news/hiring/)
+and [we're hiring!](/news/hiring/)
 
 ## Scientific Advisors
 

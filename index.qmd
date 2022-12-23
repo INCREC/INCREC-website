@@ -121,11 +121,7 @@ A 5-year (2023-2027) research project funded by the European Commission (ERC StG
 :::
 ::::
 
-
-
-
 ::::{.columns}
-
 
 ::: {.column .col-v-center width="15%"}
 :::
@@ -139,20 +135,9 @@ A 5-year (2023-2027) research project funded by the European Commission (ERC StG
 ::: {.all-link}
 [all publications](publications/)
 :::
+:::
 
-:::
-:::
 ::::
-
-
-
-
-::::{.columns}
-
-::: {.column .col-v-center width="15%"}
-:::
-
-::: {.column .col-v-center width="70%"}
 
 <!-- ## R packages -->
 <!-- <div id="listing-rpckg" class="quarto-listing quarto-listing-container-grid"> -->
