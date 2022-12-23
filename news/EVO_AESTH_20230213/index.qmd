@@ -1,0 +1,44 @@
+---
+title: Evolutionary Aesthetics Seminar
+image: static/logotype_oblique.png
+title-block-style: none
+toc: false
+priority: 3
+description: Presentation at the seminar \"Evolutionary Aesthetics as a Scholarly Discipline\" (online)
+categories:
+  - events
+  - news
+---
+
+The seminar consists of four presentations and ends with a roundtable. The presentations concern both empirical and philosophical approaches to Evolutionary Aesthetics.
+
+**Date: Monday, 13 February 2023**
+
+Time: 10:00 – 13:45 CET
+
+Language: English
+
+Chair: Onerva Kiianlinna | Doctoral Researcher, Doctoral Programme in Philosophy, Arts, and Society, University of Helsinki
+
+Virtual Location: Zoom Link
+
+Registration: ask onerva.kiianlinna[at]helsinki.fi
+
+*Schedule*
+10:00–10:05 Opening
+
+10:05–10:35 Onerva Kiianlinna: “Three waves of evolutionary aesthetics”
+
+The term “Evolutionary Aesthetics” has a history of more than 100 years. During this time, the field has changed according to the general changes in evolutionary thinking. I will review the characteristics of what I call the three waves of Evolutionary Aesthetics in relation to their historical contexts as well as each other.
+
+10:35–11:05 Mikko Ijäs: “The cognitive research approach of prehistoric art”
+
+The Finnish researcher Mikko Ijäs will give a presentation on cognitive research of prehistoric rock-art. The cognitive changes the hunters have described, such as transformation experiences into a hunted prey animal, could be attributed to some of the earliest imagery humans have ever made.
+
+11:05–11:35 Federico Pianzola: “Testing evolutionary hypotheses for fiction”
+
+My hypothesis is that fiction is a cultural cognitive tool evolving towards forms that elicit stronger presence and narrative absorption. In other words, the fictional forms that survive are those able to elicit more intense embodied simulations. I will present how this hypothesis can be tested combining computational text analysis and empirical research with readers.
+
+11:35–12:05 Mariagrazia Portera: “(Non-human) animal aesthetics? Promises and challenges of a comparative research program in aesthetics”
+
+Within the field of evolutionary aesthetics, there has been traditionally (apart from anecdotal reports) only limited research on comparative approaches to aesthetics, i.e. on the idea that non-human animals possess an aesthetic capacity more or less in the same way that human beings do. This was, however, Charles Darwin’s main assumption in his evolutionary theory. In this paper, I shall use the concept of “mosaic evolution” to describe human aesthetic capacity as a multifactorial trait whose simplest expressions might have preceded Homo sapiens; each of the factors involved in human aesthetic capacity might have evolved at different times in different species, due to different mechanisms (exaptation, adaptation, non-adaptive structural side effect) and according to different comparative relationships (structural, phylogenetic, genetic homology, convergence).

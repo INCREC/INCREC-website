@@ -28,8 +28,10 @@ website:
       - href: publications/index.qmd
         text: Publications
   page-footer:
-    left: "CC-BY-SA 2022"
-    center: "powered by [quarto](https://quarto.org) | theme by [Termeh Shafie](http://mrs.schochastics.net)"
+    left: |
+    CC-BY-SA 2022 <br>
+    powered by [quarto](https://quarto.org) <br>
+    theme by [Termeh Shafie](http://mrs.schochastics.net)
     right:
       - icon: mastodon
         href: https://mstdn.social/@fpianz
