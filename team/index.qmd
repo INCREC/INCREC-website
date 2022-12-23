@@ -1,0 +1,33 @@
+---
+title: "Team"
+title-block-style: none
+toc: true
+---
+
+## Principal Investigator
+
+Federico Pianzola | University of Groningen
+
+## Associated researchers
+
+Tommaso Caselli | University of Groningen
+
+Andreas van Cranenburgh | University of Groningen
+
+Simone Rebora | University of Mainz
+
+## Postdoctoral reaserchers
+
+[We're hiring!](news/hiring/)
+
+## PhDs
+
+[We're hiring!](news/hiring/)
+
+## Other members
+
+[We're hiring!](news/hiring/)
+
+## Scientific Advisors
+
+*Coming soon*
