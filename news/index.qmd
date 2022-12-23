@@ -6,6 +6,7 @@ listing:
   contents: 
     - hiring
     - CREATE_20230126
+    - OTW_20221220
     - JVMG_20230128
     - EVO_AESTH_20230213
   type: grid
