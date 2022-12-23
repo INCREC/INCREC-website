@@ -2,7 +2,7 @@
 date: "2020-01"
 description: We presented an overview of the possibility offered by a digital social reading platform like Wattpad for the study of reader response.
 subtitle: Federico Pianzola, Simone Rebora, and Gerhard Lauer
-title: "Wattpad as a resource for literary studies. Quantitative and qualitative examples of the importance of digital social reading and readers’ comments in the margins"
+title: Wattpad as a resource for literary studies. <br> Quantitative and qualitative examples of the importance of digital social reading and readers’ comments in the margins
 image: 4_badboy.jpg
 title-block-style: none
 toc: false

@@ -1,0 +1,16 @@
+---
+title: OTW Guest Post
+date: 2022-12-19
+image: Guest-Post-Banner-Candice.jpg
+title-block-style: none
+toc: false
+priority: 2
+description: Interview posted on the blog of the Organization for Transformative Works 
+categories:
+  - news
+  - media-coverage
+---
+
+Every month the *Organization for Transformative Works* (OTW) hosts guest posts on their OTW News accounts to provide an outside perspective on the OTW or aspects of fandom.
+
+Read my [interview](https://www.transformativeworks.org/otw-guest-post-federico-pianzola/).
