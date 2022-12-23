@@ -23,6 +23,9 @@ listing:
   - id: publications
     fields: [title,date]
     contents: 
+      - publications/chr2020
+      - publications/linked_potter
+      - publications/first_wattpad
     type: table
     table-hover: true
     date-format: medium

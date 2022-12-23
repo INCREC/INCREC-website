@@ -23,6 +23,8 @@ website:
     right:
       - href: about/index.qmd
         text: About
+      - href: team/index.qmd
+        text: Team
       - href: news/index.qmd
         text: News
       - href: publications/index.qmd
