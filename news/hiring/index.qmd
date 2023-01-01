@@ -67,5 +67,6 @@ We also accept applications for externally funded PhD students and for internshi
 
 - for Australians, the [John Monash Scholarship](https://www.johnmonash.com/scholarships/benefits)
 - for Chinese, the China Scholarship Council (CSC)
+- [grant finder](https://www.rug.nl/education/scholarships/findscholarships) for PhD in the Netherlands
 
 If you're interested in collaborating or learning more about GOLEM, please get in touch.
