@@ -6,6 +6,7 @@ listing:
     - chr2020
     - linked_potter
     - first_wattpad
+    - OER_theory
   type: grid
   grid-columns: 3
   categories: true
