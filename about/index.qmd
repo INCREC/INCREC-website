@@ -62,6 +62,7 @@ The representation of a story in a graph database is different from its represen
 **Similar projects:**
 
 - [MiMoText](https://mimotext.uni-trier.de/en)
-- [Digital Observatory of World Literature (2023-)](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature)
+- [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature)
 - [Japanese Visual Media Graph (JVMG)](https://jvmg.iuk.hdm-stuttgart.de)
 - [The Under-Represented Writers Project](https://underrepresented.di.unito.it)
+- [Theme Ontology](https://themeontology.org)
