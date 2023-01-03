@@ -2,7 +2,7 @@
 date: "2021-07"
 description: We presented a theoretica model clarifying the differences between various terms uses in empirical research about users' cognitive and affective engagement with various media.
 subtitle: Federico Pianzola, Giuseppe Riva, Karin Kukkonen, and Fabrizia Mantovani
-title: Presence, flow, and narrative absorption: an interdisciplinary theoretical exploration with a new spatiotemporal integrated model based on predictive processing
+title: "Presence, flow, and narrative absorption: an interdisciplinary theoretical exploration with a new spatiotemporal integrated model based on predictive processing"
 image: fig1.jpeg
 title-block-style: none
 toc: false
