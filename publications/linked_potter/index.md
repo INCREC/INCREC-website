@@ -21,4 +21,4 @@ Using user-generated tags extracted from fanfiction stories (Archive of Our Own)
 
 In *JADH2020 Proceedings of the 10th Conference of the Japanese Association of Digital Humanities “A New Decade in Digital Scholarship: Microcosms and Hubs”*. Edited by Bor Hodošček. Osaka, Japan: Graduate School of Language and Culture, Osaka University. 28–32.
 
-Data and code: https://github.com/fedormyskin/Linked-Potter
+Data and code: [https://github.com/fedormyskin/Linked-Potter](https://github.com/fedormyskin/Linked-Potter)
