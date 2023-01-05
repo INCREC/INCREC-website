@@ -8,13 +8,13 @@ website:
   twitter-card:
     creator: "@fpianz"
     site: "@fpianz"
-    description: "Digital Humanities research project about fanfiction and reading"
+    description: "Digital Humanities research project about the cultural evolution of online fiction"
     image: "static/img/avatar.png"
     card-style: "summary"
   search: false
   open-graph: 
     site-name: GOLEM Lab
-    description: "Digital Humanities research project about fanfiction and reading"
+    description: "Digital Humanities research project about the cultural evolution of online fiction"
     image: "static/img/avatar.png"
   navbar:
     logo: "static/logotype_oblique.png"
