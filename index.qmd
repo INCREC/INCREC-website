@@ -13,6 +13,7 @@ listing:
     fields: [image,title]
     contents: 
       - news/hiring
+      - news/OTW_20221220
       - news/CREATE_20230126
       - news/JVMG_20230128
       - news/EVO_AESTH_20230213
@@ -26,6 +27,7 @@ listing:
       - publications/chr2020
       - publications/linked_potter
       - publications/first_wattpad
+      - publications/OER_theory
     type: table
     table-hover: true
     date-format: medium
@@ -123,17 +125,20 @@ A 5-year (2023-2027) research project funded by the European Commission (ERC StG
 
 ::::{.columns}
 
+::: {.home-section}
 ::: {.column .col-v-center width="15%"}
 :::
 
 ::: {.column .col-v-center width="70%"}
 
-## Latest Publications
+## Publications
 :::{#publication}
 :::
 
 ::: {.all-link}
 [all publications](publications/)
+:::
+
 :::
 :::
 
