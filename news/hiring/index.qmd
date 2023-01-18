@@ -14,29 +14,31 @@ categories:
 The GOLEM project will officially start in January 2023 and we're looking for 4 people to join the team:
 
 - 1 Postdoc
-- 1 Database Technician
-- 2 PhDs
+- 1 Database Technician **// Update: application closed, selection ongoing**
+- 2 PhDs **// Update: application closed, selection ongoing**
 
 ## Postdoc
 
-Applications are invited for a 1.5 year position (0.8 FTE) as postdoctoral researcher with expertise in graph databases, ontology creation, and graph reasoning.
+Applications are invited for a 1.5 year position as postdoctoral researcher with expertise in graph databases, ontology creation, and graph reasoning.
 
 In collaboration with the PI and a technician, you will work on the definition of an ontology and creation of a graph database compatible with Wikidata and other projects about the digitization of literary texts.
 
 You will contribute to:
 
 - define the ontology to be used throughout the project
-- organize data in a local database
-- set up and maintain a triple store with extracted metadata
-- ensure communication between the local database and the triple store with a public SPARQL endpoint
-- enrich the triple store with information obtained via rule-based and graph reasoning techniques
-- disseminate the project’s activities.
+- enrich a triple store (knowledge graph database) with information obtained via rule-
+based and graph reasoning techniques
+- use graph-based representations for ontology learning
+- use graph-based strategies for semantic relation identification
+- use graph-based methods to populate ontologies using textual data.
 
 Remote work possible, if resident in the EU.
 
-See the [official announcment](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0009QSP) for more information and to apply.
+Official announcment coming soon.
 
 ## Database Technician
+
+**// Update: application closed, selection ongoing**
 
 Applications are invited for a 1 year part-time (0.5 FTE) position as graph database technician. 
 
@@ -55,6 +57,8 @@ See the [official announcment](https://www.rug.nl/about-ug/work-with-us/job-oppo
 
 ## PhD students
 
+**// Update: application closed, selection ongoing**
+
 ### 2 PhD positions in Digital Humanities and Natural Language Processing
 
 In collaboration with the other team members, you will work on your own multilingual and cross-cultural research project. The project is very interdisciplinary, combining computational methods for the analysis of language and culture and psychometric experiments with readers. The focus will be on changes over a time span of 20 years in how people write (fanfiction) stories, in terms of themes, tropes, and style. In parallel, you will also look at how these changes influence the reception of stories. You will learn skills related to database management, linked data, data science, machine learning, and experimental design for reading research.
@@ -69,4 +73,4 @@ We also accept applications for externally funded PhD students and for internshi
 - for Chinese, the China Scholarship Council (CSC)
 - [grant finder](https://www.rug.nl/education/scholarships/findscholarships) for PhD in the Netherlands
 
-If you're interested in collaborating or learning more about GOLEM, please get in touch.
+If you're interested in collaborating or learning more about GOLEM, please get in touch (f[dot]pianzola[at]rug[dot]nl).

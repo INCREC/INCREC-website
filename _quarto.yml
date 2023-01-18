@@ -30,8 +30,8 @@ website:
       - href: publications/index.qmd
         text: Publications
   page-footer:
-    left: CC-BY-SA 2022 <br>
-    center: powered by [quarto](https://quarto.org) <br> theme by [Termeh Shafie](http://mrs.schochastics.net)
+    left: CC-BY-SA 2022 <br> Powered by [quarto](https://quarto.org) <br> Theme by [Termeh Shafie](http://mrs.schochastics.net)
+    center: <div class="ml-embedded" data-form="UeE8fD"></div>
     right:
       - icon: mastodon
         href: https://mstdn.social/@fpianz
@@ -53,6 +53,8 @@ format:
       - academicons.css
     toc: true
     highlight-style: zenburn
+    include-in-header:
+      - mailerlite.js
 execute: 
   freeze: auto
 
