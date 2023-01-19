@@ -32,8 +32,6 @@ based and graph reasoning techniques
 - use graph-based strategies for semantic relation identification
 - use graph-based methods to populate ontologies using textual data.
 
-Remote work possible, if resident in the EU.
-
 Official announcment coming soon.
 
 ## Database Technician

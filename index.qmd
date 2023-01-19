@@ -141,6 +141,20 @@ A 5-year (2023-2027) research project funded by the European Commission (ERC StG
 
 :::
 :::
-
 ::::
 
+::::{.columns}
+::: {.news-section}
+::: {.column .col-v-center width="15%"}
+:::
+
+::: {.column .col-v-center width="70%"}
+
+::: {.news-header}
+<div class="ml-embedded" data-form="UeE8fD"></div>
+:::
+:::
+
+:::
+
+::::
