@@ -32,7 +32,7 @@ based and graph reasoning techniques
 - use graph-based strategies for semantic relation identification
 - use graph-based methods to populate ontologies using textual data.
 
-Official announcment coming soon.
+See the [official announcment](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0009QSP) for more information and to apply.
 
 ## Database Technician
 
