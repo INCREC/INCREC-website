@@ -65,4 +65,4 @@ The representation of a story in a graph database is different from its represen
 - [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature)
 - [Japanese Visual Media Graph (JVMG)](https://jvmg.iuk.hdm-stuttgart.de)
 - [The Under-Represented Writers Project](https://underrepresented.di.unito.it)
-- [Theme Ontology](https://github.com/theme-ontology/theming)
+- [Theme Ontology](https://www.themeontology.org/)
