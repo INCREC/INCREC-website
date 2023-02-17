@@ -24,12 +24,24 @@ Simone Rebora (University of Mainz)
 
 [We're hiring!](/news/hiring/)
 
-## Other members
+## Other contributors
 
 Michiel van der Ree (University of Groningen)
+
+Luca Scotti (University of Bologna)
+
+Edu Vallejo (University of Groningen, The University of the Basque Country)
 
 and [we're hiring!](/news/hiring/)
 
 ## Scientific Advisors
 
-*Coming soon*
+Alberto Acerbi (Brunel University London)
+
+Evelyn Gius (Technical University Darmstadt)
+
+Folgert Karsdorp (KNAW Meertens Institute)
+
+Nina Tahmasebi (University of Gothenburg)
+
+Jamie Tehrani (Durham University)
