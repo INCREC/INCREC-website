@@ -28,6 +28,7 @@ listing:
       - publications/linked_potter
       - publications/first_wattpad
       - publications/OER_theory
+      - publications/complexity
     type: table
     table-hover: true
     date-format: medium
