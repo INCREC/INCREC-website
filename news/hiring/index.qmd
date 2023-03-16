@@ -5,7 +5,7 @@ date: today
 image: RUG_logo_small.jpg
 title-block-style: none
 toc: true
-priority: 1
+priority: 
 description: The GOLEM project will officially start in January 2023 and we're looking for 4 people to join the team!
 categories:
   - news
@@ -18,6 +18,8 @@ The GOLEM project will officially start in January 2023 and we're looking for 4 
 - 2 PhDs **// Update: application closed, selection ongoing**
 
 ## Postdoc
+
+**// Update: application closed**
 
 Applications are invited for a 1.5 year position as postdoctoral researcher with expertise in graph databases, ontology creation, and graph reasoning.
 
@@ -36,7 +38,7 @@ See the [official announcment](https://www.rug.nl/about-ug/work-with-us/job-oppo
 
 ## Database Technician
 
-**// Update: application closed, selection ongoing**
+**// Update: application closed**
 
 Applications are invited for a 1 year part-time (0.5 FTE) position as graph database technician. 
 
@@ -55,7 +57,7 @@ See the [official announcment](https://www.rug.nl/about-ug/work-with-us/job-oppo
 
 ## PhD students
 
-**// Update: application closed, selection ongoing**
+**// Update: application closed**
 
 ### 2 PhD positions in Digital Humanities and Natural Language Processing
 
@@ -68,7 +70,9 @@ See the [official announcement](https://www.rug.nl/about-ug/work-with-us/job-opp
 We also accept applications for externally funded PhD students and for internships. For example:
 
 - for Australians, the [John Monash Scholarship](https://www.johnmonash.com/scholarships/benefits)
-- for Chinese, the China Scholarship Council (CSC)
-- [grant finder](https://www.rug.nl/education/scholarships/findscholarships) for PhD in the Netherlands
+- for Chinese, the China Scholarship Council (CSC) + top-up from the University of Groningen
+- for Indonesians, [LPDP/DIKTI overseas scholarship](https://www.rug.nl/education/scholarships/lpdp-dikti-overseas-scholarship)
+- if you received your Master degree in the Netherlands, [NWO PhD in the Humanities](https://www.nwo.nl/en/researchprogrammes/phds-humanities)
+- you can also check the [grant finder](https://www.rug.nl/education/scholarships/findscholarships) for PhD in the Netherlands
 
 If you're interested in collaborating or learning more about GOLEM, please get in touch (f[dot]pianzola[at]rug[dot]nl).

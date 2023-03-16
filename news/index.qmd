@@ -4,7 +4,7 @@ listing:
   id: news
   fields: [image, title, description]
   contents: 
-    - hiring
+    - collaborations
     - CREATE_20230126
     - OTW_20221220
     - JVMG_20230128

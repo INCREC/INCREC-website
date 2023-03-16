@@ -12,7 +12,7 @@ listing:
     max-description-length: 500
     fields: [image,title]
     contents: 
-      - news/hiring
+      - news/collaborations
       - news/OTW_20221220
       - news/CREATE_20230126
       - news/JVMG_20230128
