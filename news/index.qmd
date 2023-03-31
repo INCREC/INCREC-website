@@ -5,6 +5,7 @@ listing:
   fields: [image, title, description]
   contents: 
     - collaborations
+    - dracor_20230327
     - CREATE_20230126
     - OTW_20221220
     - JVMG_20230128

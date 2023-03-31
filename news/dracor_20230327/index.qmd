@@ -1,0 +1,14 @@
+---
+title: CLS-INFRA fellowship
+image: CLSlogo.jpg
+title-block-style: none
+toc: false
+priority: 1
+description: Collaboration with the Dracor project (Univ. Potsdam) to design GOLEM as programmable corpora.
+categories:
+  - news
+---
+
+I'll be spending one month at the University of Potsdam thanks to a [CLS-INFRA](https://clsinfra.io) fellowship. I will collaborate with the [Dracor](https://dracor.org) team to align the construction of the GOLEM with the concept of "programmable corpora".
+
+I started following the Dracor project in 2019 and it's exciting to see more closely their outstanding achievements and technology. The GOLEM will adapt Dracor's frontend and API to allow easy access to the metadata and extracted features of all the stories in the database.
