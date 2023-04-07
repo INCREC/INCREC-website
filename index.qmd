@@ -78,7 +78,7 @@ listing:
 
 :::
 
-# GOLEM Lab
+# Golem Lab
 ::: {.termeh-intro}
 Graphs and Ontologies for Literary Evolution Models
 <br>
