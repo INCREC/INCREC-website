@@ -12,8 +12,8 @@ $navbar-hl: #f8f6f0;
 /*-- scss:rules --*/
 @font-face {
     font-family: 'Rubik';
-    src: url('static/fonts/Rubik-v15-latin-regular.woff') format('woff2'),
-         url('static/fonts/Rubik-v15-latin-regular.woff2') format('woff');
+    src: url('static/fonts/rubik-v21-latin-regular.woff') format('woff2'),
+         url('static/fonts/rubik-v21-latin-regular.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -21,8 +21,8 @@ $navbar-hl: #f8f6f0;
 
 @font-face {
     font-family: 'Rubik';
-    src: url('static/fonts/IBMPlexSans-Regular.woff2') format('woff2'),
-        url('static/fonts/IBMPlexSans-Regular.woff') format('woff');
+    src: url('static/fonts/rubik-v21-latin-regular.woff2') format('woff2'),
+        url('static/fonts/rubik-v21-latin-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
