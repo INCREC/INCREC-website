@@ -11,12 +11,13 @@ categories:
   - news
 ---
 
-We accept applications for externally funded PhD students and for internships. For example:
+We accept applications for externally funded PhD students, internships, and Postdocs. For example:
 
 - for Australians, the [John Monash Scholarship](https://www.johnmonash.com/scholarships/benefits)
 - for Chinese, the China Scholarship Council (CSC) + top-up from the University of Groningen
 - for Indonesians, [LPDP/DIKTI overseas scholarship](https://www.rug.nl/education/scholarships/lpdp-dikti-overseas-scholarship)
 - if you received your Master degree in the Netherlands, [NWO PhD in the Humanities](https://www.nwo.nl/en/researchprogrammes/phds-humanities)
 - you can also check the [grant finder](https://www.rug.nl/education/scholarships/findscholarships) for PhD in the Netherlands
+- MSCA Postdoctoral Fellowship. [Here](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2023) is the 2023 timeline.
 
 If you're interested in collaborating or learning more about GOLEM, please get in touch (f[dot]pianzola[at]rug[dot]nl).

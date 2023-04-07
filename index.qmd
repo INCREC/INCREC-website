@@ -13,6 +13,7 @@ listing:
     fields: [image,title]
     contents: 
       - news/collaborations
+      - news/dracor_20230327
       - news/OTW_20221220
       - news/CREATE_20230126
       - news/JVMG_20230128
