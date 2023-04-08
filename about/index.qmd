@@ -1,5 +1,5 @@
 ---
-title: GOLEM Lab
+title: Golem Lab
 image: ../static/img/avatar.png
 id: about
 toc: true
