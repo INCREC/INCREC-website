@@ -61,6 +61,7 @@ The representation of a story in a graph database is different from its represen
 
 **Similar projects:**
 
+- [DraCor](https://dracor.org)
 - [MiMoText](https://mimotext.uni-trier.de/en)
 - [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature)
 - [Japanese Visual Media Graph (JVMG)](https://jvmg.iuk.hdm-stuttgart.de)
