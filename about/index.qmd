@@ -19,7 +19,7 @@ The **goal** of the project is to create accurate models of how the (formal and 
 
 The **methodology** mainly combines computational literary studies and cultural evolution theory, with influences from fan studies and information science.
 
-The project is **hosted** by the Center for Langugage and Cognition and the Center for Digital Humanities of the University of Groningen (Netherlands).
+The project is **hosted** by the University of Groningen (Netherlands), with the support of the Center for Language and Cognition, the Center for Digital Humanities, and the Jantina Tammes School of Digital Society, Technology and AI.
 
 ------------------------------------------------------------------------
 
