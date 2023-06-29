@@ -18,11 +18,11 @@ Time: 09:00 – 17:00 CET
 
 Language: English
 
-Everybody is welcome to join the conversation online. Register using the following form to receive the link: https://forms.gle/sfRvs87zR7QKxxbQ9
+Everybody is welcome to join the conversation online. Register using the following form to receive the link: [https://forms.gle/sfRvs87zR7QKxxbQ9](https://forms.gle/sfRvs87zR7QKxxbQ9)
 
-*Program*:
+**Program**
 
-*3 July*	
+**3 July**	
 
 9:00-9:45	Janna Hastings, "How can fiction change the world? Towards an ontology of literary characters and their interactions"
 
@@ -47,7 +47,7 @@ lunch
 16-16:45	Magnus Pfeffer and Zoltán Kacsuk, "Creating a unified ontology for the Japanese Visual Media Graph"
 
 	
-*4 July*	
+**4 July**
 
 09:00-9:45	Luca Scotti, "Alignment and harmonisation: Mapping ontologies for narrative and fiction"
 
