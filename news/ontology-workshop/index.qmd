@@ -1,0 +1,58 @@
+---
+title: Ontologies for Narrative and Fiction (online workshop)
+image: ../collaborations/RUG_logo_small.jpg
+title-block-style: none
+toc: false
+priority: 1
+description: 3-4 July 2023. Workshop about Ontologies for Narrative and Fiction.
+categories:
+  - events
+  - news
+---
+
+The first official event of the GOLEM project will be about discussing ontologies for narrative and fiction.
+
+Date: 3-4 July 2023
+
+Time: 09:00 – 17:00 CET
+
+Language: English
+
+Everybody is welcome to join the conversation online. Register using the following form to receive the link: https://forms.gle/sfRvs87zR7QKxxbQ9
+
+*Program*:
+
+*3 July*	
+
+9:00-9:45	Janna Hastings, "How can fiction change the world? Towards an ontology of literary characters and their interactions"
+
+9:45-10:30	Paul Sheridan, "Toward creating a collection of literary themes for use in supervised learning applications"
+
+15 min break	
+
+10:45-11:30	Christof Schöch and Maria Hinzmann, "Towards an ontology for literary history: issues of complexity and scale when constructing the MiMoTextBase"
+
+11:30-12:15	Ingo Börner, "Modeling Drama Corpora in CIDOC-CRM"
+
+lunch	
+
+13:30-14:15	Valentina Pasqual, "An ontology for compositional structures, plot concepts and character roles. Case study on the 'macchina combinatoria' in 'Il castello dei destini incrociati' by Italo Calvino"
+
+14:15-15:00	Marco Stranisci, "The World Literature Knowledge Graph: a resource for studying the underrepresentation of non-Western people"
+
+15 min break	
+
+15:15-16:00	Ines Blin, "Leveraging structured representations for narratives"
+
+16-16:45	Magnus Pfeffer and Zoltán Kacsuk, "Creating a unified ontology for the Japanese Visual Media Graph"
+
+	
+*4 July*	
+
+09:00-9:45	Luca Scotti, "Alignment and harmonisation: Mapping ontologies for narrative and fiction"
+
+09:45-10:30	Federico Pianzola and Xiaoyan Yang, "First steps of the GOLEM ontology for narrative and fiction"
+
+15 min break	
+
+10:45-12:00	hands-on session: open issues in the modelling of narrative and fiction
