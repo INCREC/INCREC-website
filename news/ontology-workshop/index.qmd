@@ -24,15 +24,15 @@ Everybody is welcome to join the conversation online. Register using the followi
 
 **3 July**	
 
-9:00-9:45	Janna Hastings, "How can fiction change the world? Towards an ontology of literary characters and their interactions"
+9:00-9:45	Janna Hastings, "How can fiction change the world? Towards an ontology of literary characters and their interactions" [(slides)](slides/Hastings_literary_characters_compressed.pdf)
 
-9:45-10:30	Paul Sheridan, "Toward creating a collection of literary themes for use in supervised learning applications"
+9:45-10:30	Paul Sheridan, "Toward creating a collection of literary themes for use in supervised learning applications" [(slides)](slides/Sheridan_theme_ontology-compressed.pdf)
 
 15 min break	
 
-10:45-11:30	Christof Schöch and Maria Hinzmann, "Towards an ontology for literary history: issues of complexity and scale when constructing the MiMoTextBase"
+10:45-11:30	Christof Schöch and Maria Hinzmann, "Towards an ontology for literary history: issues of complexity and scale when constructing the MiMoTextBase" 
 
-11:30-12:15	Ingo Börner, "Modeling Drama Corpora in CIDOC-CRM"
+11:30-12:15	Ingo Börner, "Modeling Drama Corpora in CIDOC-CRM" [(slides)](slides/Boerner_Drama_Corpora_CIDOC_compressed.pdf)
 
 lunch	
 
@@ -42,16 +42,16 @@ lunch
 
 15 min break	
 
-15:15-16:00	Ines Blin, "Leveraging structured representations for narratives"
+15:15-16:00	Ines Blin, "Leveraging structured representations for narratives" [(slides)](slides/Blin_structured_narrative_compressed.pdf)
 
-16-16:45	Magnus Pfeffer and Zoltán Kacsuk, "Creating a unified ontology for the Japanese Visual Media Graph"
+16-16:45	Magnus Pfeffer and Zoltán Kacsuk, "Creating a unified ontology for the Japanese Visual Media Graph" [(slides)](slides/Pfeffer_Kacsuk_JVMG.pdf)
 
 	
 **4 July**
 
 09:00-9:45	Federico Pianzola and Xiaoyan Yang, "First steps of the GOLEM ontology for narrative and fiction" [(slides)](slides/Pianzola-Yang_GOLEM_ontology_compressed.pdf)
 
-09:45-10:30	Luca Scotti, "Alignment and harmonisation: Mapping ontologies for narrative and fiction"
+09:45-10:30	Luca Scotti, "Alignment and harmonisation: Mapping ontologies for narrative and fiction" [(slides)](slides/Scotti_alignment.pdf)
 
 15 min break	
 
