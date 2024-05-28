@@ -3,6 +3,7 @@ title: "Publications"
 listing:
   fields: [date,image,title,description]
   contents: 
+    - triple_store
     - chr2020
     - linked_potter
     - first_wattpad

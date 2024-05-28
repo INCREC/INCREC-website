@@ -12,12 +12,12 @@ listing:
     max-description-length: 500
     fields: [image,title]
     contents: 
+      - news/CHR_20231206
       - news/why_golem
       - news/collaborations
       - news/dracor_20230327
       - news/OTW_20221220
       - news/ontology-workshop
-      - news/JVMG_20230128
     type: grid
     image-align: left
     sort: "priority asc"
@@ -30,6 +30,7 @@ listing:
       - publications/first_wattpad
       - publications/OER_theory
       - publications/complexity
+      - publications/triple_store
     type: table
     table-hover: true
     date-format: medium
