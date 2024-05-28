@@ -1,5 +1,5 @@
 ---
-date: "2020-11"
+date: "2024-05"
 description: A Graph-Based Representation of Narrative and Fiction
 subtitle: Pannach, Franziska, Xiaoyan Yang, Noa Visser solissa, Ze Yu, Andreas van Cranenburgh, Michiel van der Ree, and Federico Pianzola
 title: "The GOLEM Triple Store"
