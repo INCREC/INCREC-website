@@ -36,19 +36,21 @@ And [we're open to collaborations!](/news/collaborations/)
 
 Michiel van der Ree (University of Groningen)
 
-Luotong Chen (University of Groningen)
+Luotong Cheng (University of Twente)
 
 Arianna Graciotti (University of Bologna)
 
 Yuri Bizzoni (Aarhus University)
-
-Yaru Wang (Bielefeld University)
 
 Luca Scotti (University of Bologna)
 
 Edu Vallejo (University of Groningen, The University of the Basque Country)
 
 Ingo Börner (University of Potsdam)
+
+Xiaoyu Zhou (University of Groningen)
+
+Yaru Wang
 
 ## Scientific Advisors
 
@@ -61,3 +63,7 @@ Folgert Karsdorp (KNAW Meertens Institute)
 Nina Tahmasebi (University of Gothenburg)
 
 Jamie Tehrani (Durham University)
+
+## Ethics Advisor
+
+Casey Fiesler (University of Colorado - Boulder)

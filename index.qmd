@@ -25,6 +25,9 @@ listing:
   - id: publications
     fields: [title,date]
     contents: 
+      - publications/chr2024_kg
+      - publications/chr2024_qidian
+      - publications/chr2024_omega
       - publications/chr2020
       - publications/linked_potter
       - publications/first_wattpad
@@ -35,7 +38,7 @@ listing:
     table-hover: true
     date-format: medium
     image-align: left
-    max-items: 5
+    max-items: 10
     sort-ui: false
     filter-ui: false
     sort: "date desc"
