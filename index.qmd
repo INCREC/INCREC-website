@@ -12,6 +12,7 @@ listing:
     max-description-length: 500
     fields: [image,title]
     contents: 
+      - news/CHR_20241203
       - news/CHR_20231206
       - news/why_golem
       - news/collaborations
