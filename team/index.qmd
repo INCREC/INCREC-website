@@ -1,69 +1,31 @@
 ---
-title: "Team"
+title: "Team members of INCREC"
 title-block-style: none
 toc: true
 ---
 
 ## Principal Investigator
 
-Federico Pianzola (University of Groningen)
+Dr. Ana Guerberof Arenas (University of Groningen)
 
 ## Associated researchers
 
-Franziska Pannach (University of Groningen)
-
-Andreas van Cranenburgh (University of Groningen)
-
-Tommaso Caselli (University of Groningen)
-
-Simone Rebora (University of Verona)
+Prof. Malvina Nissim (University of Groningen)
 
 ## Postdoctoral researchers
 
-We'll be hiring in 2025
+We'll be hiring in 2025 - please keep an eye out on our website 
 
 ## PhDs
 
-Noa Visser Solissa (University of Groningen)
+Kyo Gerrits (University of Groningen)
 
-Xiaoyan Yang (University of Groningen)
+Xiaolu Wang (University of Groningen)
 
-Ze Yu (University of Groningen)
+Nastja Shaboltas (University of Groningen)
 
-And [we're open to collaborations!](/news/collaborations/)
+## Coordinator 
 
-## Other contributors
+Dr. Liset Rouweler (University of Groningen)
 
-Michiel van der Ree (University of Groningen)
-
-Luotong Cheng (University of Twente)
-
-Arianna Graciotti (University of Bologna)
-
-Yuri Bizzoni (Aarhus University)
-
-Luca Scotti (University of Bologna)
-
-Edu Vallejo (University of Groningen, The University of the Basque Country)
-
-Ingo Börner (University of Potsdam)
-
-Xiaoyu Zhou (University of Groningen)
-
-Yaru Wang
-
-## Scientific Advisors
-
-Alberto Acerbi (University of Trento)
-
-Evelyn Gius (Technical University Darmstadt)
-
-Folgert Karsdorp (KNAW Meertens Institute)
-
-Nina Tahmasebi (University of Gothenburg)
-
-Jamie Tehrani (Durham University)
-
-## Ethics Advisor
-
-Casey Fiesler (University of Colorado - Boulder)
+And [we're always open to collaborations!](/news/collaborations/)
