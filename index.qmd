@@ -1,10 +1,10 @@
 ---
-pagetitle: "GOLEM - Graphs and Ontologies for Literary Evolution Models"
+pagetitle: "INCREC - Creativity in Translation"
 page-layout: custom
 toc: false
 css: index.css
 socials:
-  twitter: fpianz
+  twitter: ...
 shortcodes:
   - socials.lua
 listing: 
@@ -13,12 +13,6 @@ listing:
     fields: [image,title]
     contents: 
       - news/CHR_20241203
-      - news/CHR_20231206
-      - news/why_golem
-      - news/collaborations
-      - news/dracor_20230327
-      - news/OTW_20221220
-      - news/ontology-workshop
     type: grid
     image-align: left
     sort: "priority asc"
@@ -88,16 +82,16 @@ Golem Lab
 :::
 
 ::: {.termeh-intro}
-Graphs and Ontologies for Literary Evolution Models
+INCREC about Creativity in Translation 
 <br>
 <br>
-A 5-year (2023-2027) research project funded by the European Commission (ERC StG)
+A 5-year (2023-2028) research project funded by the European Commission (ERC StG)
 <br>
 ![](static/img/LOGO_ERC-FLAG_EU_.jpg){width=30%}
 
 :::
 :::{.about-link}
-[MORE ABOUT THE PROJECT](about/)
+[MORE ABOUT THE INCREC PROJECT](about/)
 :::
 :::
 
